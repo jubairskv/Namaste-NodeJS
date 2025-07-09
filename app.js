@@ -29,7 +29,7 @@ calculateSum(a, b); // with object destructure
 mutli(a, b);
 
 
-
+ 
 //console.log(x);
 
 console.log(a);
