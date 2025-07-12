@@ -1,0 +1,10 @@
+# code :
+
+---> sync code
+---> async code
+---> blocking of sync code
+----> setTimeout(cbfn,0)
+---->non-blocking I/O
+---> main thread
+---> async I/O
+---> libuv github
